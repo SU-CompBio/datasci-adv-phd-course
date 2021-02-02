@@ -100,6 +100,37 @@ during the course.
 
 ## Week 1 - 2021-02-03
 
+*Introduction, software setup, basics of command-line.*
+
+Delivery plan:
+
+- Explain content of course
+- Explain Code of Conduct
+- Homeworks and grading
+- Short introduction from everybody
+- Getting started with the iPython terminal
+
+During this lesson we will do some introduction, setup and then learn about the
+Unix shell. We will discuss how to work in a shell, why is it useful and learn
+some basic commands.
+
+An iPython browser-based terminal, is accessible
+[here](https://10.114.112.81:4040). This address can be only seen from inside
+the Semmelweis University network or by using a VPN. More details during the
+course.
+
+We will use the Software Carpentry lesson titled [The Unix Shell](http://swcarpentry.github.io/shell-novice/).
+
+- [Introducing the Shell](http://swcarpentry.github.io/shell-novice/01-intro/index.html)
+- [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/index.html)
+- and finally, as far as we can progress in [Working With Files and
+  Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html)
+
+### Recommended readings
+
+- [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+- The Unix shell at [Wikipedia](https://en.wikipedia.org/wiki/Unix_shell)
+
 ## Week 2 - 2021-02-10
 
 ## Week 3 - 2021-02-17
