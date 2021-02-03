@@ -132,6 +132,8 @@ We will use the Software Carpentry lesson titled [The Unix Shell](http://swcarpe
 - [GNU Manuals Online](http://www.gnu.org/manual/manual.html)
 - [GNU Manuals Online - coreutils](http://www.gnu.org/software/coreutils/manual/html_node/index.html)
 - The Unix shell at [Wikipedia](https://en.wikipedia.org/wiki/Unix_shell)
+- [Git BASH](https://gitforwindows.org), a lightweight, native set of tools for
+  Windows to provide command-line emulation and other things
 
 ## Week 2 - 2021-02-10
 
