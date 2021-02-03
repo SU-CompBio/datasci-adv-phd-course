@@ -105,7 +105,7 @@ during the course.
 Delivery plan:
 
 - Explain content of course
-- Explain Code of Conduct
+- Explain [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 - Homeworks and grading
 - Short introduction from everybody
 - Getting started with the iPython terminal
