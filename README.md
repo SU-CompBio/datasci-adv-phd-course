@@ -129,6 +129,8 @@ We will use the Software Carpentry lesson titled [The Unix Shell](http://swcarpe
 ### Recommended readings
 
 - [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+- [GNU Manuals Online](http://www.gnu.org/manual/manual.html)
+- [GNU Manuals Online - coreutils](http://www.gnu.org/software/coreutils/manual/html_node/index.html)
 - The Unix shell at [Wikipedia](https://en.wikipedia.org/wiki/Unix_shell)
 
 ## Week 2 - 2021-02-10
