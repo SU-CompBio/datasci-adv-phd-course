@@ -116,8 +116,9 @@ some basic commands.
 
 An iPython browser-based terminal, is accessible
 [here](https://10.114.112.81:4040). This address can be only seen from inside
-the Semmelweis University network or by using a VPN. More details during the
-course.
+the Semmelweis University network or by [using a
+VPN](https://semmelweis.hu/informatika/egyeb-szolgaltatasok/eroforrasok-tavoli-elerese/).
+More details during the course.
 
 We will use the Software Carpentry lesson titled [The Unix Shell](http://swcarpentry.github.io/shell-novice/).
 
