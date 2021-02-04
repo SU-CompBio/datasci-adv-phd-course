@@ -114,11 +114,24 @@ During this lesson we will do some introduction, setup and then learn about the
 Unix shell. We will discuss how to work in a shell, why is it useful and learn
 some basic commands.
 
+### Server setup and VPN
+
 An iPython browser-based terminal, is accessible
 [here](https://10.114.112.81:4040). This address can be only seen from inside
-the Semmelweis University network or by [using a
-VPN](https://semmelweis.hu/informatika/egyeb-szolgaltatasok/eroforrasok-tavoli-elerese/).
-More details during the course.
+the Semmelweis University network and/or by setting up VPN.
+
+More details on how to setup the VPN connection:
+
+- [Part 1](https://lib.semmelweis.hu/se_kk_vpn/info)
+- [Part 2](https://lib.semmelweis.hu/index.php?app=content&id=128)
+- [Part 3](https://semmelweis.hu/informatika/egyeb-szolgaltatasok/eroforrasok-tavoli-elerese/)
+- [Part 4](http://openvpnigenylo.semmelweis.hu/login)
+
+There are different versions available, for students with a NEPTUN code (PPTP or
+L2TP), for employees of the university with a SEKA id (L2TP) or by applying for
+an OpenVPN login and specifying the server IPs and protocols you want to access.
+
+### Lesson material
 
 We will use the Software Carpentry lesson titled [The Unix Shell](http://swcarpentry.github.io/shell-novice/).
 
