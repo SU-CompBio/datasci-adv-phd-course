@@ -131,14 +131,22 @@ There are different versions available, for students with a NEPTUN code (PPTP or
 L2TP), for employees of the university with a SEKA id (L2TP) or by applying for
 an OpenVPN login and specifying the server IPs and protocols you want to access.
 
+After connecting to the server, and opening an iPython terminal, the very first
+command that you type in, should be `bash -l`.
+
+### Local setup without VPN
+
+If you can't connect to the server above, you can do the exercises locally, on
+your laptop. Please follow the setup instructions
+[here](http://swcarpentry.github.io/shell-novice/setup.html).
+
 ### Lesson material
 
-We will use the Software Carpentry lesson titled [The Unix Shell](http://swcarpentry.github.io/shell-novice/).
+We will use the Software Carpentry lesson titled [The Unix
+Shell](http://swcarpentry.github.io/shell-novice/).
 
 - [Introducing the Shell](http://swcarpentry.github.io/shell-novice/01-intro/index.html)
 - [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/index.html)
-- and finally, as far as we can progress in [Working With Files and
-  Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html)
 
 ### Recommended readings
 
@@ -150,6 +158,32 @@ We will use the Software Carpentry lesson titled [The Unix Shell](http://swcarpe
   Windows to provide command-line emulation and other things
 
 ## Week 2 - 2021-02-10
+
+*Working with files and directories, pipes, filters*
+
+Delivery plan:
+
+- Short recap of previous lesson
+- Creating, moving, deleting files and directories
+- Command output redirection, intro to pipes
+
+### Lesson material
+
+We will continue with the Software Carpentry lesson titled [The Unix
+Shell](http://swcarpentry.github.io/shell-novice/).
+
+- [Working With Files and
+  Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html)
+- [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html)
+
+### Recommended readings
+
+- [Introduction to the Command Line for
+  Genomics](https://datacarpentry.org/shell-genomics/). This material uses an
+  Amazon virtual machine, and you can't practice directly on one, but might
+  contain useful info.
+
+### Homework
 
 ## Week 3 - 2021-02-17
 
