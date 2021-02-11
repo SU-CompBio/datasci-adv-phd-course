@@ -185,6 +185,17 @@ Shell](http://swcarpentry.github.io/shell-novice/).
 
 ### Homework
 
+Submit homework using the Dropbox File Request link. We will discuss the
+homework next week. There is no strict deadline, but please send the files at
+least a day in advance before the next lesson, so we can check, and give some
+feedback if needed.
+
+Using the commands we discussed until now, create a directory structure and a
+few example files for a new project that you think would be useful. Use `nano` to
+record all commands in a txt file, and send the file. Use `ls`, `cd`, `mkdir`,
+`cp`, `mv`, `touch`, `pwd`, `rm` in any combination you need (you might not need
+all of them).
+
 ## Week 3 - 2021-02-17
 
 ## Week 4 - 2021-02-24
