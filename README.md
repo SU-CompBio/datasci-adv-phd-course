@@ -198,6 +198,38 @@ all of them).
 
 ## Week 3 - 2021-02-17
 
+*Pipes, filters and loops*
+
+Delivery plan:
+
+- Homework discussion
+- Short recap of previous lesson
+- Building more complex pipes
+- Loops for repeating commands
+
+### Lesson material
+
+We will continue with the Software Carpentry lesson titled [The Unix
+Shell](http://swcarpentry.github.io/shell-novice/).
+
+- [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html)
+- [Loops](http://swcarpentry.github.io/shell-novice/05-loop/index.html)
+
+### Recommended readings
+
+- There is more to life than for loops. We have `while` and `until` loops too.
+  Check [here](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html) or
+  [here](https://ryanstutorials.net/bash-scripting-tutorial/bash-loops.php).
+
+### Homework
+
+Submit homework using the Dropbox File Request link. We will discuss the
+homework next week. There is no strict deadline, but please send the files at
+least a day in advance before the next lesson, so we can check, and give some
+feedback if needed.
+
+TBD.
+
 ## Week 4 - 2021-02-24
 
 ## Week 5 - 2021-03-03
