@@ -220,6 +220,8 @@ Shell](http://swcarpentry.github.io/shell-novice/).
 - There is more to life than for loops. We have `while` and `until` loops too.
   Check [here](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html) or
   [here](https://ryanstutorials.net/bash-scripting-tutorial/bash-loops.php).
+- [How to name files](https://speakerdeck.com/jennybc/how-to-name-files) by
+  Jenny Bryan.
 
 ### Homework
 
