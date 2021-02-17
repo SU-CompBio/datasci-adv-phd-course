@@ -228,7 +228,17 @@ homework next week. There is no strict deadline, but please send the files at
 least a day in advance before the next lesson, so we can check, and give some
 feedback if needed.
 
-TBD.
+Download the `surveys.csv` file from
+[here](https://ndownloader.figshare.com/files/10717177). Check the content of
+the file, and record a few statistics using command line tools.
+
+- The total number of observations in the file
+- The total number of different species ids in descending order
+- The total number of different sexes
+
+Write down *both the commands used and the results* in a file, and check for any
+irregularities or problems. Use the `cut`, `sort`, `uniq`, `wc` commands,
+redirection with `>` or `>>`, `nano` or anything else we learned.
 
 ## Week 4 - 2021-02-24
 
