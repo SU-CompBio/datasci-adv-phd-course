@@ -86,9 +86,9 @@ during the course.
 |1.   |2021-02-03|Endre Sebestyén|
 |2.   |2021-02-10|Endre Sebestyén|
 |3.   |2021-02-17|Endre Sebestyén|
-|4.   |2021-02-24|Gábor Turu     |
-|5.   |2021-03-03|Endre Sebestyén|
-|6.   |2021-03-10|Endre Sebestyén|
+|4.   |2021-02-24|Endre Sebestyén|
+|5.   |2021-03-03|Gábor Turu     |
+|6.   |2021-03-10|Gábor Turu     |
 |7.   |2021-03-17|Bence Szalai   |
 |8.   |2021-03-24|Bence Szalai   |
 |9.   |2021-03-31|Gábor Turu     |
@@ -243,6 +243,42 @@ irregularities or problems. Use the `cut`, `sort`, `uniq`, `wc` commands,
 redirection with `>` or `>>`, `nano` or anything else we learned.
 
 ## Week 4 - 2021-02-24
+
+*Finding things and shell scripting*
+
+Delivery plan:
+
+- Homework discussion
+- Short recap of previous lesson
+- Finding things with grep and find
+- Writing shell scripts
+
+### Lesson material
+
+We will continue with the Software Carpentry lesson titled [The Unix
+Shell](http://swcarpentry.github.io/shell-novice/).
+
+- [Finding Things](http://swcarpentry.github.io/shell-novice/07-find/index.html)
+- [Shell Scripts](http://swcarpentry.github.io/shell-novice/06-script/index.html)
+
+### Recommended readings
+
+More on regular expressions.
+
+- Bash Guide for Beginners: [Regular expressions](https://tldp.org/LDP/Bash-Beginners-Guide/html/chap_04.html)
+- Advanced Bash-Scripting Guide: [Regular Expressions](https://tldp.org/LDP/abs/html/regexp.htmla)
+- [File Permissions](https://linuxize.com/post/chmod-command-in-linux/)
+
+### Homework
+
+Submit homework using the Dropbox File Request link. We will discuss the
+homework next week. There is no strict deadline, but please send the files at
+least a day in advance before the next lesson, so we can check, and give some
+feedback if needed.
+
+Update your script from previous week, so it runs as a proper shell script, with
+the starting "magical" line, proper documentation, comments included, and using
+the `$1` variable for defining the input file.
 
 ## Week 5 - 2021-03-03
 
