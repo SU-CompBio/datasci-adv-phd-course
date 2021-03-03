@@ -282,7 +282,7 @@ the `$1` variable for defining the input file.
 
 ## Week 5 - 2021-03-03
 
-*The programmer's toolset*
+*The programmer's toolkit*
 
 Planned topics:
 
