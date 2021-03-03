@@ -282,6 +282,17 @@ the `$1` variable for defining the input file.
 
 ## Week 5 - 2021-03-03
 
+*The programmer's toolset*
+
+Planned topics:
+
+- Linux, git, github, virtual environment, containerization, remote control, command line tools
+
+### Homework (optional)
+
+Create a project/git repository and share it on github
+
+
 ## Week 6 - 2021-03-10
 
 ## Week 7 - 2021-03-17
