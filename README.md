@@ -283,6 +283,8 @@ the `$1` variable for defining the input file.
 ## Week 5 - 2021-03-03
 
 ## Week 6 - 2021-03-10
+[Data](https://drive.google.com/drive/folders/1rWRpqM6qxuW46F7NPpZEZ05k4_Ojcvs4?usp=sharing)
+[Homework](https://drive.google.com/drive/folders/1Z5EjvGLvyIrRlxOuw9wISQ2DtgnZ6JQU?usp=sharing)
 
 ## Week 7 - 2021-03-17
 
