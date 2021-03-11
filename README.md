@@ -283,7 +283,15 @@ the `$1` variable for defining the input file.
 ## Week 5 - 2021-03-03
 
 ## Week 6 - 2021-03-10
+You can find the data, and also the Colab Notebook here:
 [Data](https://drive.google.com/drive/folders/1rWRpqM6qxuW46F7NPpZEZ05k4_Ojcvs4?usp=sharing)
+####Homework: 
+
+* Calculate coefficients (for SARS-CoV-2 treatment) for Calu-3 and A549 cells, and plot them (scatter plot) against each other. This will show us how similar are the response of these cells to infection. You will have to filter for these data (have 2 DataFrames, containing Mock and SARS-CoV-2 infected samples, and either Calu-3 or A549 cell lines), and run a statistical model with only 'Treatment' factor (basically it is a t-test).
+* Please upload this notbook (your_name.ipynb) to the Week6 folder (you should have write access to this, if not please let me know)
+* install [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) library in R.
+
+Please upload you homework here:
 [Homework](https://drive.google.com/drive/folders/1Z5EjvGLvyIrRlxOuw9wISQ2DtgnZ6JQU?usp=sharing)
 
 ## Week 7 - 2021-03-17
