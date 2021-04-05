@@ -282,6 +282,16 @@ the `$1` variable for defining the input file.
 
 ## Week 5 - 2021-03-03
 
+*The programmer's toolkit*
+
+Planned topics:
+
+- Linux, git, github, virtual environment, containerization, remote control, command line tools
+
+### Homework (optional)
+
+Create a project/git repository and share it on github
+
 ## Week 6 - 2021-03-10
 You can find the data, and also the Colab Notebook here:
 [Data](https://drive.google.com/drive/folders/1rWRpqM6qxuW46F7NPpZEZ05k4_Ojcvs4?usp=sharing)
@@ -300,7 +310,32 @@ Please upload you homework here:
 
 ## Week 9 - 2021-03-31
 
+*Starting a deployement project*
+
+We will start to create a web app to share some data on the web. We will practice the followings:
+- creation of a remote linux server
+- connection to the server through ssh
+- installing docker 
+- creation of a remote development environment using a docker container
+- creation of a github repository for the project
+
+Useful links, tutorials, not all of these information will be covered in our course:
+  - docker: https://www.youtube.com/watch?v=pTFZFxd4hOI
+  - ml-workspace: https://github.com/ml-tooling/ml-workspace
+  - git: 
+      - https://www.youtube.com/watch?v=uR6G2v_WsRA
+      - https://www.youtube.com/watch?v=HVsySz-h9r4
+      - https://www.youtube.com/watch?v=FdZecVxzJbk
+
 ## Week 10 - 2021-04-07
+  *Continuing the deployement project*
+
+Planned:
+- creation of the project on the remote server
+- playing with the plotly library
+- streamlit library
+- playing a little bit with git
+- structuring the project folder
 
 ## Week 11 - 2021-04-14
 
