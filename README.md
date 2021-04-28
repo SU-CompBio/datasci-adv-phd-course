@@ -351,6 +351,21 @@ Planned:
 - heroku app deployment
 - classes, modules, packages
 
+### Homework
+create an Experiment class which has an array (or dataframe) as data and the following methods:
+
+- __init__
+- __repr__
+- __len__
+- sum
+- lineplot, scatterplot or imshow, depending on the data
+- save (saves data into an excel file)
+
+
+and has the following parameters:
+- date of experiment
+- experiment folder path
+
 ## Week 14 - 2021-05-05
 
 - classes, modules, packages
