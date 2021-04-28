@@ -339,8 +339,19 @@ Planned:
 
 ## Week 11 - 2021-04-14
 
+- remote VM
+- docker basics
+
 ## Week 12 - 2021-04-21
+
+- docker app on remote VM
 
 ## Week 13 - 2021-04-28
 
+- heroku app deployment
+- classes, modules, packages
+
 ## Week 14 - 2021-05-05
+
+- classes, modules, packages
+
